@@ -2,8 +2,8 @@
 
 ## Overview
 Medical Scheduler is a lightweight yet powerful application designed to simplify appointment management for a doctor and their patients.
-### The project targets single-practice clinics, private doctors, or specialists needing a simple yet effective system to manage patient flow without large hospital systems.
-### Built with Python (Streamlit) and backed by a MySQL database, it offers a scalable base for real-world production or expansion.
+#### The project targets single-practice clinics, private doctors, or specialists needing a simple yet effective system to manage patient flow without large hospital systems.
+Built with Python (Streamlit) and backed by a MySQL database, it offers a scalable base for real-world production or expansion.
 
 # Problem Statement
 In a busy clinic or private practice:
