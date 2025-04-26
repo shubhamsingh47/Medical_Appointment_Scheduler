@@ -25,6 +25,7 @@ share/python-wheels/
 .installed.cfg
 *.egg
 MANIFEST
+config.py
 
 # PyInstaller
 #  Usually these files are written by a python script from a template
@@ -60,6 +61,7 @@ cover/
 local_settings.py
 db.sqlite3
 db.sqlite3-journal
+Medical_Scheduler.db
 
 # Flask stuff:
 instance/
@@ -128,6 +130,7 @@ celerybeat.pid
 *.sage.py
 
 # Environments
+myenv
 .env
 .venv
 env/
