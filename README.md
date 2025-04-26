@@ -1,4 +1,4 @@
-# Medical Scheduler
+# Medical Scheduler with end-to-end modular coding
 
 ## Overview
 Medical Scheduler is a lightweight yet powerful application designed to simplify appointment management for a doctor and their patients.
