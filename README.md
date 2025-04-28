@@ -16,22 +16,22 @@ In a busy clinic or private practice:
 
 ❗ There is a need for a simple, secure, and automated way to manage appointments between a doctor and patients.
 
-# ⚙️ Core Features
-👨‍⚕️ Doctor Dashboard – View and manage upcoming patient appointments
+# Core Features
+* Doctor Dashboard – View and manage upcoming patient appointments.
 
-👤 Patient Account Creation – Quick sign-up with mobile number and password
+* Patient Account Creation – Quick sign-up with mobile number and password.
 
-📅 Appointment Scheduling – Book available time slots seamlessly
+* Appointment Scheduling – Book available time slots seamlessly.
 
-🔄 Appointment Rescheduling – Modify scheduled slots with ease
+* Appointment Rescheduling – Modify scheduled slots with ease.
 
-🔒 Secure Login – Authentication for both doctor and patients
+* Secure Login – Authentication for both doctor and patients.
 
-🧭 Smooth Navigation – Easy-to-use horizontal menu
+* Smooth Navigation – Easy-to-use horizontal menu.
 
-🆘 Help & Support Section – Built-in guidance and contact info
+* Help & Support Section – Built-in guidance and contact info.
 
-# 🛠️ Tech Stack
+# Tech Stack
 Frontend (UI): Streamlit (Python)
 
 Backend Services: Python (Modular Architecture)
@@ -40,12 +40,12 @@ Database: MySQL (Localhost / Cloud Ready)
 
 Deployment Ready: Streamlit Sharing
 
-# 🔒 Security Notes
+# Security Notes
 * All passwords are stored as plain text for simplicity in local development. In production, passwords must be hashed (e.g., bcrypt hashing).
 
 * Doctor access is restricted based on a specific mobile number (config.py)
 
-# 🌟 Future Enhancements 
+# Future Enhancements 
 * Adding email verification for sign-up.
 
 * Adding multi-doctor support.
