@@ -14,7 +14,7 @@ In a busy clinic or private practice:
 
 * Doctors lose valuable consultation time handling appointments.
 
-❗ There is a need for a simple, secure, and automated way to manage appointments between a doctor and patients.
+REQUIRED:-  There is a need for a simple, secure, and automated way to manage appointments between a doctor and patients.
 
 # Core Features
 * Doctor Dashboard – View and manage upcoming patient appointments.
