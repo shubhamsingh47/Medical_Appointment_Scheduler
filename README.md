@@ -1,4 +1,4 @@
-# Medical Scheduler with end-to-end modular coding
+![Medical_Appointment_Scheduler](https://github.com/user-attachments/assets/6ead6a02-5072-4249-9014-0bc4b3b16cda)# Medical Scheduler with end-to-end modular coding
 
 ## Overview
 Medical Scheduler is a lightweight yet powerful application designed to simplify appointment management for a doctor and their patients.
@@ -57,3 +57,6 @@ Deployment Ready: Streamlit Sharing
 * Add admin panel for superuser control.
 
 * Feature to reset and change passwords.
+
+# Project Snippet
+![Medical_Appointment_Scheduler](https://github.com/user-attachments/assets/9332d755-95be-4400-ad74-7b6a84854991)
